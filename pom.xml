@@ -8,7 +8,7 @@
         <version>3.3.5</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>org.example.thangctrla</groupId>
+    <groupId>org.example</groupId>
     <artifactId>test-maven-1</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>test-maven-1</name>
