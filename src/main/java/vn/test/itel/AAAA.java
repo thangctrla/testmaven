@@ -1,4 +1,4 @@
-package org.example.testmaven1;
+package vn.test.itel;
 
 public class AAAA {
     public int aaa(int a, int b) {

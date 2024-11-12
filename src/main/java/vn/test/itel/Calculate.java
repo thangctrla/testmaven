@@ -1,4 +1,4 @@
-package org.example.testmaven1;
+package vn.test.itel;
 
 public class Calculate {
     public int tinhtoan(int i, int c) {

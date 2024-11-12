@@ -1,4 +1,4 @@
-package org.example.testmaven1;
+package vn.test.itel;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
