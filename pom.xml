@@ -12,6 +12,7 @@
     <artifactId>test-maven-1</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>test-maven-1</name>
+
     <description>test-maven-1</description>
     <url/>
     <licenses>
